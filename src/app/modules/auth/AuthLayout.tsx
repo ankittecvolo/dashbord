@@ -75,7 +75,7 @@ const AuthLayout = () => {
 
           {/* begin::Title */}
           <h1 className='text-black fs-2qx fw-bolder text-center mb-7'>
-           Admin Dashboard
+           {/* Admin Dashboard */}
           </h1>
           {/* end::Title */}
 

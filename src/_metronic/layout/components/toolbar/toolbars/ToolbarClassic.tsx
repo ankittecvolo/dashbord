@@ -22,8 +22,8 @@ const ToolbarClassic = () => {
             data-kt-menu-trigger='click'
             data-kt-menu-placement='bottom-end'
           >
-            <KTIcon iconName='filter' className='fs-6 text-muted me-1' />
-            Filter
+            {/* <KTIcon iconName='filter' className='fs-6 text-muted me-1' /> */}
+            {/* Filter */}
           </a>
           <Dropdown1 />
         </div>
