@@ -66,7 +66,7 @@ const UsersListFilter = () => {
               onChange={(e) => setRole(e.target.value)}
               value={role}
             >
-              <option value=''></option>
+              
               <option value='Administrator'>Administrator</option>
               <option value='Analyst'>Analyst</option>
               <option value='Developer'>Developer</option>
