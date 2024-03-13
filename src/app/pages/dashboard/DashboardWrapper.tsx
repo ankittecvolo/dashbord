@@ -34,7 +34,7 @@ const DashboardPage: FC = () => (
           img={toAbsoluteUrl('media/patterns/vector-1.png')}
         />
         <CardsWidget7
-          className='h-md-50 mb-5 mb-xl-10'
+          className='h-md-50 mb-5 mb-xl-10'=
           description='Professionals'
           icon={false}
           stats={357}
